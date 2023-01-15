@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Semantic Web!</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <h1>Template</h1>
+{% endblock %}
+
+{% block body %}
+     <div>
+
+        <div class="page-container">
+            <div class="main-container">
+                <div class="fileUpload">
+                    <p class="heads is-size-4 has-text-weight-bold">Upload the schedule here</p>
+                    <form action = "http://localhost:5000/uploader" method = "POST"
+                    enctype = "multipart/form-data">
+                        <input type = "file" name = "file" />
+                        <input type = "submit"/>
+                    </form>
+                </div>
+
+                <hr />
+
+                <div class="addEvent">
+                    <p class="heads is-size-4 has-text-weight-bold">Add an event</p>
+                    <form action = "/add_event" method = "POST" enctype = "multipart/form-data">
+                        <label  class="is-size-6" for="ename">Event Name:</label><br>
+                            <input class="input is-primary is-rounded is-focused" type="text" placeholder="Event Name" name="eventName" id="ename"/>
+                        <div class="date-holder">
+                            <div class="date-start">
+                                <label class="is-size-6" for="startdate">Start Date:</label><br>
+                                    <input class="input is-info is-focused" type="date" name="startDate" id="startdate"/>
+                            </div>
+                            <div class="date-end">
+                                <label class="is-size-6" for="enddate">End Date:</label><br>
+                                    <input class="input is-info is-focused" type="date" name="endDate" id="enddate"/>
+                            </div>
+                        </div>
+                        <label class="is-size-6" for="location">Location:</label><br>
+                            <input class="input is-primary is-rounded is-focused" type="text" name="locationName" id="location" placeholder="Location"/>
+                        <label class="is-size-6" for="organizer">Organizer:</label><br>
+                            <input class="input is-primary is-rounded is-focused" type="text" name="organizerName" id="organizer" placeholder="Organizer"/>
+                        <label class="is-size-6" for="attendee">Attendee:</label><br>
+                            <input class="input is-primary is-rounded is-focused" type="text" name="attendeeName" id="attendee" placeholder="Attendee"/>
+                        <label class="is-size-6" for="comment">Comment:</label><br>
+                            <input class="input is-primary is-rounded is-focused" type="text" name="comment" id="comment" placeholder="Comment"/>
+                        <input type = "submit"/>
+                    </form>
+                </div>
+
+                <hr />
+
+                <div class="validateEvent">
+                    <p class="heads is-size-4 has-text-weight-bold">Validate the event</p>
+                    <input type="button" name="Validate Event" id="validateevent" value="Validate" onclick="validate()"/>
+                </div>
+
+                <hr />
+
+                <div class="listEvents">
+                    <p class="heads is-size-4 has-text-weight-bold">List the upcoming events on a given date</p>
+                    <form action = "/upcoming_events" method = "GET" enctype = "multipart/form-data">
+                        <label for="eventtime">Choose a date and time:</label>
+                            <input class="input is-info is-focused" type="date" name="List Events" id="eventtime"  />
+                        <input type = "submit"/>
+                    </form>
+                </div>
+
+                <hr />
+
+                <div class="listNonCourseEvents">
+                    <p class="heads is-size-4 has-text-weight-bold">List the upcoming events happening in Saint-Etienne that are not courses</p>
+                    <form action = "/list_other_events" method = "GET" enctype = "multipart/form-data">
+                        <label for="noncourseeventtime">Choose a date and time:</label>
+                            <input  class="input is-info is-focused"  type="date" name="List non-course events" id="noncourseeventtime"  />
+                        <input type = "submit"/>
+                    </form>
+                </div>
+
+                <hr />
+
+                <div class="addAttendee">
+                    <p class="heads is-size-4 has-text-weight-bold">Add an attendee</p>
+                    <form action = "/add_attendee" method = "GET" enctype = "multipart/form-data">
+                        <label for="aname">Attendee Name:</label><br>
+                            <input class="input is-info" type="text" name="attendeeName" id="aname"  placeholder="Attendee Name" />
+                        <label for="acomment">Comment:</label><br>
+                            <input class="input is-info" type="text" name="attendeeComment" id="acomment"  placeholder="Comment here..!!" />
+                        <input type = "submit"/>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

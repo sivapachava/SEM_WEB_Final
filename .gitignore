@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+venv/
+testsk.py
+testldp.py
+testldpget.py
+testshacl.ttl

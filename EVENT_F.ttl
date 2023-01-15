@@ -1,0 +1,53 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+schema:Event
+  a rdfs:Class ;
+  a sh:NodeShape ;
+  rdfs:subClassOf schema:Thing ;
+  owl:equivalentClass <http://purl.org/dc/dcmitype/Event> ;
+  sh:property [sh:path schema:attendee ;
+  sh:name "attendee" ;
+  sh:nodeKind sh:IRI;
+  sh:class schema:Person;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:name;
+  sh:class schema:Person ;
+  sh:name "name" ;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:startTime ;
+  sh:name "startTime" ;
+  sh:datatype xsd:time ;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:endTime ;
+  sh:name "endTime" ;
+  sh:datatype xsd:time ;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:endDate ;
+  sh:name "endDate" ;
+  sh:datatype xsd:date ;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:startDate ;
+  sh:name "startDate" ;
+  sh:datatype xsd:date ;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:location ;
+  sh:name "location" ;
+  sh:class schema:Place ;
+  sh:datatype xsd:string ;
+  sh:maxCount 1 ;
+  ];
+  sh:property [sh:path schema:organizer;
+  sh:class schema:Person ;
+  sh:name "organizer" ;
+  ].

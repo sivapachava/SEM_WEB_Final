@@ -1,0 +1,1338 @@
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+@prefix schema: <https://schema.org/> .
+
+<https://territoire.emse.fr/ldp/spsk/> a schema:Thing,
+        schema:schedule ;
+    ldp:containes </ADE60323032322d3230323353542d455449454e4e452d31303336372d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d31303336372d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d31303336372d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d31303336372d332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d31303336372d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d31303336372d352d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d31303336372d362d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d313337342d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d31>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3130>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3131>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3132>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3133>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3134>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3135>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3136>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3137>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3138>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3139>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d32>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3230>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3231>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3232>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3233>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d33>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d34>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d35>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d36>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d37>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d38>,
+        </ADE60323032322d3230323353542d455449454e4e452d32313931332d302d39>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d31>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3130>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3131>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3132>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3133>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d32>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d33>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d34>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d35>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d36>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d37>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d38>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323533302d302d39>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d31302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d31312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d31322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d352d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d362d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d372d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d382d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32323537312d392d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32333432382d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32333432382d302d31>,
+        </ADE60323032322d3230323353542d455449454e4e452d32333432382d302d32>,
+        </ADE60323032322d3230323353542d455449454e4e452d32333535372d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343033342d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343033342d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343033342d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343033342d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d352d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32343731312d362d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d31302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d31312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d352d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d362d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d372d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d382d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353234362d392d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d32353330392d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31352d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31362d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31372d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31382d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d31392d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d32312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d32322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d32332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d32342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d352d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d362d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d372d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d382d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d333039372d392d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d33323430342d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d33363236322d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d33363236322d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d373436332d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d383032372d302d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d383032372d312d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d383032372d322d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d383032372d332d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d383032372d342d30>,
+        </ADE60323032322d3230323353542d455449454e4e452d383032372d352d30> ;
+    schema:description "The graph contains the representation of our university Calender events"@en .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d302d30> a schema:Event ;
+    schema:endDate "2022-09-07" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-07" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d312d30> a schema:Event ;
+    schema:endDate "2022-09-14" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-14" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d322d30> a schema:Event ;
+    schema:endDate "2022-09-21" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-21" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d332d30> a schema:Event ;
+    schema:endDate "2022-09-28" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-28" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d342d30> a schema:Event ;
+    schema:endDate "2022-10-05" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-05" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d352d30> a schema:Event ;
+    schema:endDate "2022-10-12" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-12" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d352d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d31303336372d362d30> a schema:Event ;
+    schema:endDate "2022-10-19" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-19" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d31303336372d362d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d313337342d302d30> a schema:Event ;
+    schema:endDate "2022-09-05" ;
+    schema:endTime "16:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "RentrÃ©e" ;
+    schema:organizer "M2 CPS2" ;
+    schema:startDate "2022-09-05" ;
+    schema:startTime "14:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d313337342d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d30> a schema:Event ;
+    schema:endDate "2023-01-05" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2023-01-05" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d31> a schema:Event ;
+    schema:endDate "2022-12-15" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-15" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d31" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3130> a schema:Event ;
+    schema:endDate "2022-11-23" ;
+    schema:endTime "14:00:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-23" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3130" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3131> a schema:Event ;
+    schema:endDate "2022-11-21" ;
+    schema:endTime "14:00:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-21" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3131" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3132> a schema:Event ;
+    schema:endDate "2022-12-07" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-07" ;
+    schema:startTime "14:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3132" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3133> a schema:Event ;
+    schema:endDate "2022-11-23" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-23" ;
+    schema:startTime "14:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3133" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3134> a schema:Event ;
+    schema:endDate "2022-11-17" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-17" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3134" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3135> a schema:Event ;
+    schema:endDate "2022-12-07" ;
+    schema:endTime "14:00:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-07" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3135" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3136> a schema:Event ;
+    schema:endDate "2022-11-24" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-24" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3136" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3137> a schema:Event ;
+    schema:endDate "2022-11-17" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-17" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3137" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3138> a schema:Event ;
+    schema:endDate "2022-12-01" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-01" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3138" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3139> a schema:Event ;
+    schema:endDate "2022-11-24" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-24" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3139" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d32> a schema:Event ;
+    schema:endDate "2022-11-21" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-21" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d32" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3230> a schema:Event ;
+    schema:endDate "2022-12-08" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-08" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3230" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3231> a schema:Event ;
+    schema:endDate "2022-12-01" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-01" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3231" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3232> a schema:Event ;
+    schema:endDate "2022-12-15" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-15" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3232" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3233> a schema:Event ;
+    schema:endDate "2022-12-08" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-12-08" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d3233" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d33> a schema:Event ;
+    schema:endDate "2023-01-05" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2023-01-05" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d33" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d34> a schema:Event ;
+    schema:endDate "2022-11-22" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-22" ;
+    schema:startTime "14:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d34" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d35> a schema:Event ;
+    schema:endDate "2022-11-22" ;
+    schema:endTime "14:00:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-22" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d35" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d36> a schema:Event ;
+    schema:endDate "2022-11-21" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-21" ;
+    schema:startTime "14:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d36" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d37> a schema:Event ;
+    schema:endDate "2022-11-16" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-16" ;
+    schema:startTime "14:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d37" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d38> a schema:Event ;
+    schema:endDate "2022-11-16" ;
+    schema:endTime "14:00:00+00:00" ;
+    schema:location "EMSE,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-16" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d38" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32313931332d302d39> a schema:Event ;
+    schema:endDate "2022-11-21" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Programming connected devices / Digital Twins" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 LEFRANCOIS MAXIME" ;
+    schema:startDate "2022-11-21" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32313931332d302d39" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d30> a schema:Event ;
+    schema:endDate "2022-10-27" ;
+    schema:endTime "13:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-10-27" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d31> a schema:Event ;
+    schema:endDate "2022-09-06" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-06" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d31" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3130> a schema:Event ;
+    schema:endDate "2022-09-23" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-23" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3130" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3131> a schema:Event ;
+    schema:endDate "2022-09-08" ;
+    schema:endTime "14:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-08" ;
+    schema:startTime "13:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3131" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3132> a schema:Event ;
+    schema:endDate "2022-09-06" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-06" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3132" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3133> a schema:Event ;
+    schema:endDate "2022-09-23" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-23" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d3133" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d32> a schema:Event ;
+    schema:endDate "2022-11-08" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) VIRTUEL SCIENCES MUHLENBACH FABRICE" ;
+    schema:startDate "2022-11-08" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d32" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d33> a schema:Event ;
+    schema:endDate "2022-10-27" ;
+    schema:endTime "14:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-10-27" ;
+    schema:startTime "13:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d33" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d34> a schema:Event ;
+    schema:endDate "2022-12-08" ;
+    schema:endTime "14:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-12-08" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d34" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d35> a schema:Event ;
+    schema:endDate "2022-11-08" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) VIRTUEL SCIENCES MUHLENBACH FABRICE" ;
+    schema:startDate "2022-11-08" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d35" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d36> a schema:Event ;
+    schema:endDate "2022-09-29" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-29" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d36" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d37> a schema:Event ;
+    schema:endDate "2022-12-08" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-12-08" ;
+    schema:startTime "14:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d37" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d38> a schema:Event ;
+    schema:endDate "2022-09-08" ;
+    schema:endTime "13:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-08" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d38" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323533302d302d39> a schema:Event ;
+    schema:endDate "2022-09-29" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM/TD Overview of Research, development and innovation activities / Professional insertion" ;
+    schema:organizer "M2 CPS2 M1 CPS2 (12) ZIMMERMANN A MARET PIERRE" ;
+    schema:startDate "2022-09-29" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323533302d302d39" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d302d30> a schema:Event ;
+    schema:endDate "2022-10-07" ;
+    schema:endTime "14:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S1.32" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2022-10-07" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d312d30> a schema:Event ;
+    schema:endDate "2022-10-21" ;
+    schema:endTime "10:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S1.32" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance ZIMMERMANN A CHARPENAY VICTOR" ;
+    schema:startDate "2022-10-21" ;
+    schema:startTime "06:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d31302d30> a schema:Event ;
+    schema:endDate "2022-12-09" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2022-12-09" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d31302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d31312d30> a schema:Event ;
+    schema:endDate "2022-12-16" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance ZIMMERMANN A CHARPENAY VICTOR" ;
+    schema:startDate "2022-12-16" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d31312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d31322d30> a schema:Event ;
+    schema:endDate "2023-01-06" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2023-01-06" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d31322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d322d30> a schema:Event ;
+    schema:endDate "2022-11-25" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S1.32" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2022-11-25" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d332d30> a schema:Event ;
+    schema:endDate "2022-10-28" ;
+    schema:endTime "10:00:00+00:00" ;
+    schema:location "EMSE S120" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance ZIMMERMANN A CHARPENAY VICTOR" ;
+    schema:startDate "2022-10-28" ;
+    schema:startTime "06:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d342d30> a schema:Event ;
+    schema:endDate "2022-12-09" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance ZIMMERMANN A CHARPENAY VICTOR" ;
+    schema:startDate "2022-12-09" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d352d30> a schema:Event ;
+    schema:endDate "2022-12-16" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance ZIMMERMANN A CHARPENAY VICTOR" ;
+    schema:startDate "2022-12-16" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d352d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d362d30> a schema:Event ;
+    schema:endDate "2023-01-13" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2023-01-13" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d362d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d372d30> a schema:Event ;
+    schema:endDate "2022-10-21" ;
+    schema:endTime "14:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S1.32" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2022-10-21" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d372d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d382d30> a schema:Event ;
+    schema:endDate "2022-10-28" ;
+    schema:endTime "14:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S1.32" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance ZIMMERMANN A CHARPENAY VICTOR" ;
+    schema:startDate "2022-10-28" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d382d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32323537312d392d30> a schema:Event ;
+    schema:endDate "2022-11-25" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S1.32" ;
+    schema:name "CM Semantic Web" ;
+    schema:organizer "M2 CPS2 M2 DSC M2 DSC Alternance CHARPENAY VICTOR ZIMMERMANN A" ;
+    schema:startDate "2022-11-25" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32323537312d392d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32333432382d302d30> a schema:Event ;
+    schema:endDate "2022-12-14" ;
+    schema:endTime "14:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BOISSIER OLIVIER BALBO FLAVIEN NARDIN GUSTAVO" ;
+    schema:startDate "2022-12-14" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32333432382d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32333432382d302d31> a schema:Event ;
+    schema:endDate "2022-12-14" ;
+    schema:endTime "16:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S111" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BOISSIER OLIVIER BALBO FLAVIEN NARDIN GUSTAVO" ;
+    schema:startDate "2022-12-14" ;
+    schema:startTime "14:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32333432382d302d31" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32333432382d302d32> a schema:Event ;
+    schema:endDate "2022-12-15" ;
+    schema:endTime "14:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S224" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BOISSIER OLIVIER BALBO FLAVIEN NARDIN GUSTAVO" ;
+    schema:startDate "2022-12-15" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32333432382d302d32" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32333535372d302d30> a schema:Event ;
+    schema:endDate "2023-01-11" ;
+    schema:endTime "13:30:00+00:00" ;
+    schema:location "L125 co-working (50) (Manufacture)" ;
+    schema:name "International Lunch" ;
+    schema:organizer "M2 RADMEP (4 UJM) M2 AIMA (4+4TSE) M2 PE (6+1TSE) M1 CPS2 (12) M2 CPS2 M1 MLDM (20) M2 MLDM Parcours COSI (9) Parcours IMLEX (14) M1 PSRS (18) M2 PSRS (3 UJM /16) M1 PE (5) Cours Communs 2A (21) Cours Communs 3A (24) M1 DSC (24) M2 DSC" ;
+    schema:startDate "2023-01-11" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32333535372d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343033342d302d30> a schema:Event ;
+    schema:endDate "2022-10-20" ;
+    schema:endTime "14:45:00+00:00" ;
+    schema:location "EMSE EF 2.32" ;
+    schema:name "CM Scientific writing" ;
+    schema:organizer "M2 CPS2 MARET PIERRE" ;
+    schema:startDate "2022-10-20" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343033342d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343033342d312d30> a schema:Event ;
+    schema:endDate "2022-11-18" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Scientific writing" ;
+    schema:organizer "M2 CPS2 MARET PIERRE" ;
+    schema:startDate "2022-11-18" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343033342d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343033342d322d30> a schema:Event ;
+    schema:endDate "2022-12-02" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Scientific writing" ;
+    schema:organizer "M2 CPS2 MARET PIERRE" ;
+    schema:startDate "2022-12-02" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343033342d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343033342d342d30> a schema:Event ;
+    schema:endDate "2023-01-06" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Scientific writing" ;
+    schema:organizer "M2 CPS2 MARET PIERRE" ;
+    schema:startDate "2023-01-06" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343033342d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d302d30> a schema:Event ;
+    schema:endDate "2022-09-07" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-07" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d312d30> a schema:Event ;
+    schema:endDate "2022-09-14" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-14" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d322d30> a schema:Event ;
+    schema:endDate "2022-09-21" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-21" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d332d30> a schema:Event ;
+    schema:endDate "2022-09-28" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-09-28" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d342d30> a schema:Event ;
+    schema:endDate "2022-10-05" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-05" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d352d30> a schema:Event ;
+    schema:endDate "2022-10-12" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-12" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d352d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32343731312d362d30> a schema:Event ;
+    schema:endDate "2022-10-19" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Cloud and Edge Infrastructures" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-19" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32343731312d362d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d302d30> a schema:Event ;
+    schema:endDate "2022-11-09" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-09" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d312d30> a schema:Event ;
+    schema:endDate "2022-11-16" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-16" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d31302d30> a schema:Event ;
+    schema:endDate "2022-12-13" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.11" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-12-13" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d31302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d31312d30> a schema:Event ;
+    schema:endDate "2022-11-22" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.11" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-22" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d31312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d322d30> a schema:Event ;
+    schema:endDate "2022-11-09" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-09" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d332d30> a schema:Event ;
+    schema:endDate "2022-11-16" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-16" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d342d30> a schema:Event ;
+    schema:endDate "2022-11-23" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.11" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-23" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d352d30> a schema:Event ;
+    schema:endDate "2022-11-30" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-30" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d352d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d362d30> a schema:Event ;
+    schema:endDate "2022-11-23" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.11" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-23" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d362d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d372d30> a schema:Event ;
+    schema:endDate "2022-12-13" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.11" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-12-13" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d372d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d382d30> a schema:Event ;
+    schema:endDate "2022-11-22" ;
+    schema:endTime "09:30:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.11" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-22" ;
+    schema:startTime "08:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d382d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353234362d392d30> a schema:Event ;
+    schema:endDate "2022-11-30" ;
+    schema:endTime "11:15:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "CM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2022-11-30" ;
+    schema:startTime "09:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353234362d392d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d32353330392d302d30> a schema:Event ;
+    schema:endDate "2023-01-03" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.14" ;
+    schema:name "EXAM Cybersecurity" ;
+    schema:organizer "M2 CPS2 MULLER GUILLAUME" ;
+    schema:startDate "2023-01-03" ;
+    schema:startTime "09:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d32353330392d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d302d30> a schema:Event ;
+    schema:endDate "2022-10-11" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-10-11" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d312d30> a schema:Event ;
+    schema:endDate "2022-10-06" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-10-06" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31302d30> a schema:Event ;
+    schema:endDate "2022-10-04" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-10-04" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31312d30> a schema:Event ;
+    schema:endDate "2022-09-15" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-09-15" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31322d30> a schema:Event ;
+    schema:endDate "2022-09-22" ;
+    schema:endTime "07:30:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-09-22" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31332d30> a schema:Event ;
+    schema:endDate "2022-09-27" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-27" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31342d30> a schema:Event ;
+    schema:endDate "2022-10-04" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel 1.21" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-10-04" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31352d30> a schema:Event ;
+    schema:endDate "2022-10-06" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel 1.21" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-10-06" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31352d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31362d30> a schema:Event ;
+    schema:endDate "2022-10-13" ;
+    schema:endTime "07:30:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-10-13" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31362d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31372d30> a schema:Event ;
+    schema:endDate "2022-09-08" ;
+    schema:endTime "07:30:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-08" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31372d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31382d30> a schema:Event ;
+    schema:endDate "2022-09-08" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-08" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31382d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d31392d30> a schema:Event ;
+    schema:endDate "2022-10-27" ;
+    schema:endTime "07:30:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-10-27" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d31392d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d322d30> a schema:Event ;
+    schema:endDate "2022-09-20" ;
+    schema:endTime "08:00:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-20" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d32312d30> a schema:Event ;
+    schema:endDate "2022-10-13" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-10-13" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d32312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d32322d30> a schema:Event ;
+    schema:endDate "2022-10-20" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-10-20" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d32322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d32332d30> a schema:Event ;
+    schema:endDate "2022-10-20" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-10-20" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d32332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d32342d30> a schema:Event ;
+    schema:endDate "2022-10-27" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-10-27" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d32342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d332d30> a schema:Event ;
+    schema:endDate "2022-09-20" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel 1.21" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-20" ;
+    schema:startTime "08:15:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d342d30> a schema:Event ;
+    schema:endDate "2022-10-11" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-10-11" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d352d30> a schema:Event ;
+    schema:endDate "2022-09-22" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-09-22" ;
+    schema:startTime "07:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d352d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d362d30> a schema:Event ;
+    schema:endDate "2022-09-13" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-13" ;
+    schema:startTime "08:45:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d362d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d372d30> a schema:Event ;
+    schema:endDate "2022-09-13" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-13" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d372d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d382d30> a schema:Event ;
+    schema:endDate "2022-09-15" ;
+    schema:endTime "07:30:00+00:00" ;
+    schema:location "Salle virtuelle 1,EMSE amphi A104 Espace Fauriel" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 RICHAUD QUENTIN" ;
+    schema:startDate "2022-09-15" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d382d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d333039372d392d30> a schema:Event ;
+    schema:endDate "2022-09-27" ;
+    schema:endTime "08:30:00+00:00" ;
+    schema:location "EMSE S129,EMSE Espace Fauriel S1.32" ;
+    schema:name "CM/TD Web Programming / Research and development Project" ;
+    schema:organizer "M1 CPS2 (12) M2 CPS2 EHRET GUILLAUME" ;
+    schema:startDate "2022-09-27" ;
+    schema:startTime "07:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d333039372d392d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d33323430342d302d30> a schema:Event ;
+    schema:endDate "2023-01-04" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "" ;
+    schema:name "EXAM Digital Twins LEFRANCOIS Maxime" ;
+    schema:organizer "M2 CPS2" ;
+    schema:startDate "2023-01-04" ;
+    schema:startTime "09:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d33323430342d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d33363236322d302d30> a schema:Event ;
+    schema:endDate "2022-12-02" ;
+    schema:endTime "15:30:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "TD Professional insertion" ;
+    schema:organizer "M2 CPS2 MARET PIERRE" ;
+    schema:startDate "2022-12-02" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d33363236322d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d33363236322d312d30> a schema:Event ;
+    schema:endDate "2022-12-01" ;
+    schema:endTime "16:30:00+00:00" ;
+    schema:location "EMSE salle 212" ;
+    schema:name "TD Professional insertion" ;
+    schema:organizer "M2 CPS2 MARET PIERRE" ;
+    schema:startDate "2022-12-01" ;
+    schema:startTime "12:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d33363236322d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d373436332d302d30> a schema:Event ;
+    schema:endDate "2022-11-10" ;
+    schema:endTime "11:00:00+00:00" ;
+    schema:location "EMSE amphi A104 Espace Fauriel" ;
+    schema:name "EXAM Cloud" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-11-10" ;
+    schema:startTime "09:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d373436332d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d383032372d302d30> a schema:Event ;
+    schema:endDate "2022-09-16" ;
+    schema:endTime "16:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.21" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BOISSIER OLIVIER" ;
+    schema:startDate "2022-09-16" ;
+    schema:startTime "12:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d383032372d302d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d383032372d312d30> a schema:Event ;
+    schema:endDate "2022-09-23" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.21" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BALBO FLAVIEN" ;
+    schema:startDate "2022-09-23" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d383032372d312d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d383032372d322d30> a schema:Event ;
+    schema:endDate "2022-09-09" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.21" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BOISSIER OLIVIER" ;
+    schema:startDate "2022-09-09" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d383032372d322d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d383032372d332d30> a schema:Event ;
+    schema:endDate "2022-10-06" ;
+    schema:endTime "15:45:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.21" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-06" ;
+    schema:startTime "11:30:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d383032372d332d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d383032372d342d30> a schema:Event ;
+    schema:endDate "2022-09-30" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.21" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 BALBO FLAVIEN" ;
+    schema:startDate "2022-09-30" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d383032372d342d30" .
+
+</ADE60323032322d3230323353542d455449454e4e452d383032372d352d30> a schema:Event ;
+    schema:endDate "2022-10-14" ;
+    schema:endTime "10:15:00+00:00" ;
+    schema:location "EMSE Espace Fauriel S2.21" ;
+    schema:name "CM Multi agent coordination" ;
+    schema:organizer "M2 CPS2 NARDIN GUSTAVO" ;
+    schema:startDate "2022-10-14" ;
+    schema:startTime "06:00:00+00:00" ;
+    schema:uid "ADE60323032322d3230323353542d455449454e4e452d383032372d352d30" .
+

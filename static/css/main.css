@@ -1,0 +1,57 @@
+body {
+    height: 100%;
+    object-fit: fill;
+}
+
+label {
+    color: black;
+}
+
+p {
+    color: #ffffff;
+}
+
+input[type=button], input[type=submit], input[type=file] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.page-container {
+    background: linear-gradient(#e66465, #9198e5);
+    display: flex;
+    justify-content: center;
+}
+
+.main-container {
+    margin: 6rem 6rem 3rem 6rem;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.date-holder {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.date-start {
+    width: 100%;
+}
+.date-end {
+    width: 100%;
+    margin-left: 20px;
+}
+
+
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}

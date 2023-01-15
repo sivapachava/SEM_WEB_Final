@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calender</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <div>
+
+        <div class="fileUpload">
+            <p>Upload the schedule here</p>
+            <form action = "http://localhost:5000/uploader" method = "POST"
+            enctype = "multipart/form-data">
+                <input type = "file" name = "file" />
+                <input type = "submit"/>
+            </form>
+        </div>
+        <div class="addEvent">
+            <p>Add an event</p>
+            <form action = "http://localhost:5000/add_event" method = "POST" enctype = "multipart/form-data">
+                <label for="ename">Event Name:</label><br>
+                    <input type="text" name="Event Name" id="ename"/><br>
+                <label for="startdate">Start Date:</label><br>
+                    <input type="datetime-local" name="Start Date" id="startdate"/><br>
+                <label for="enddate">End Date:</label><br>
+                    <input type="datetime-local" name="End Date" id="enddate"/><br>
+                <label for="location">Location:</label><br>
+                    <input type="text" name="Location Name" id="location"/><br>
+                <input type = "submit"/>
+            </form>
+        </div>
+
+        <div class="validateEvent">
+            <p>Validate the event</p>
+            <input type="button" name="Validate Event" id="validateevent" value="Validate" onclick=""/>
+        </div>
+
+        <div class="listEvents">
+            <p>List the upcoming events on a given date</p>
+            <label for="eventtime">Choose a date and time:</label>
+                <input type="datetime-local" name="List Events" id="eventtime"  />
+        </div>
+
+        <div class="listEventsNotCourses">
+            <p>List the upcoming events happening in Saint-Etienne that are not courses</p>
+            <label for="noncourseeventtime">Choose a date and time:</label>
+                <input type="datetime-local" name="List non-course events" id="noncourseeventtime"  />
+        </div>
+
+        <div class="addAttendee">
+            <p>Add an attendee</p>
+            <label for="aname">Attendee Name:</label><br>
+                <input type="text" name="Event Name" id="aname"/><br>
+            <label for="acomment">Comment:</label><br>
+                <input type="text" name="Event Name" id="acomment"/><br>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+</body>
+</html>
